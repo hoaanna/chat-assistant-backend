@@ -1,0 +1,5 @@
+{"id":1,"role":"user","content":"Explain more."}
+{"id":2,"role":"system","content":"Ambiguity detected → rewrite attempted"}
+{"id":3,"role":"system","content":"Rewrite still ambiguous → clarification step"}
+{"id":4,"role":"system","content":"Clarifying questions generated: [\"Do you want more details about transformers library?\",\"Do you mean more details about summarization?\"]"}
+{"id":5,"role":"assistant","content":"Best question: Do you want more details about summarization?"}

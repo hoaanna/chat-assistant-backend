@@ -1,0 +1,10 @@
+{"id":1,"role":"user","content":"Explain transformers library basics."}
+{"id":2,"role":"assistant","content":"Transformers is a library for NLP tasks."}
+{"id":3,"role":"user","content":"How does pipeline work in transformers?"}
+{"id":4,"role":"assistant","content":"Pipeline provides a simple API for tasks like text classification, summarization, etc."}
+{"id":5,"role":"user","content":"Show me an example of summarization."}
+{"id":6,"role":"assistant","content":"You can use pipeline('summarization') with a model like BART."}
+{"id":7,"role":"user","content":"What about fine-tuning models?"}
+{"id":8,"role":"assistant","content":"Fine-tuning requires preparing a dataset and training with Trainer API."}
+{"id":9,"role":"system","content":"--- [System] Summarization Triggered! ---"}
+{"id":10,"role":"system","content":"Session summary saved: {\"user_profile\":{\"prefs\":[\"Learning transformers basics\"]},\"key_facts\":[\"User is studying summarization\"],\"open_questions\":[\"How to fine-tune summarization models?\"]}"}

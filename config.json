@@ -1,0 +1,5 @@
+{
+  "token_budget": 100,
+  "char_budget": 300000,
+  "window_size": 5
+}

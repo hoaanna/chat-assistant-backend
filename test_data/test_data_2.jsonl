@@ -1,0 +1,4 @@
+{"id":1,"role":"user","content":"Is it good?"}
+{"id":2,"role":"system","content":"Ambiguity detected → rewrite flow"}
+{"id":3,"role":"system","content":"Rewritten query: \"Is the summarization quality of the BART model good?\""}
+{"id":4,"role":"assistant","content":"Yes, BART generally provides strong summarization quality, though results depend on the dataset."}
