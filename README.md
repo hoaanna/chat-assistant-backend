@@ -39,9 +39,7 @@ Example:
 ## How to Run the Demo
 ```bash
 !pip install -r requirements.txt
-```bash
 python baseline_ver.py
-```bash
 python langgraph_ver.py
 
 ### Baseline Pipeline Version
