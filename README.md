@@ -37,10 +37,9 @@ Example:
 }
 
 ## How to Run the Demo
-   ```bash
-!pip install -r requirements.txt
-python baseline_ver.py
-python langgraph_ver.py
+- !pip install -r requirements.txt
+- python baseline_ver.py
+- python langgraph_ver.py
 
 ### Baseline Pipeline Version
     - Session schema is saved in session_{sessionid}.json.
