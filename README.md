@@ -2,6 +2,8 @@ C# Chat Assistant with Session Memory
 **Vulcan Labs Take-Home Test**  
 **Author:** Nguyễn Hòa An  
 
+Github: https://github.com/hoaanna/chat-assistant-backend
+
 This project implements a chatbot backend that supports **session memory management** through automatic summarization and **ambiguous query handling** (Query Understanding Pipeline).  
 The project includes two versions:  
 - **Baseline**: a standard sequential pipeline implementation.  
