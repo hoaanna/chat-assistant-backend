@@ -1,5 +1,4 @@
-C# Chat Assistant with Session Memory  
-**Vulcan Labs Take-Home Test**  
+# Chat Assistant with Session Memory   
 **Author:** Nguyễn Hòa An  
 
 Github: https://github.com/hoaanna/chat-assistant-backend
